@@ -1,0 +1,185 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<books>
+   <book>
+      <title>La petite maison des bergers</title>
+      <author>
+         <firstname>Michael</firstname>
+         <lastname>Smith</lastname>
+         <birth_year>1976</birth_year>
+         <native_country>ETATS_UNIS</native_country>
+      </author>
+      <overview>Une superbe histoire bien trop longue pour être racontée ici !</overview>
+      <availability>1</availability>
+      <publisher>Gallimard</publisher>
+      <publication_date>2003-12-14</publication_date>
+      <price>13.88</price>
+   </book>
+   <book>
+      <title>Autobiographie d'un puceron</title>
+      <author>
+         <firstname>Antony</firstname>
+         <lastname>Herrou</lastname>
+         <birth_year>1744</birth_year>
+         <native_country>FRANCE</native_country>
+      </author>
+      <overview>Une épopée tragique et pleine d'émotions. A découvrir sans tarder.</overview>
+      <availability>2</availability>
+      <publisher>Hachette</publisher>
+      <publication_date>1988-05-23</publication_date>
+      <price>44.72</price>
+   </book>
+   <book>
+      <title>Manger des petits pois</title>
+      <author>
+         <firstname>Antony</firstname>
+         <lastname>Herrou</lastname>
+         <birth_year>1744</birth_year>
+         <native_country>FRANCE</native_country>
+      </author>
+      <overview>Il faut se nourrir de petits pois sinon ça craint. Telles était ses dernières paroles...</overview>
+      <availability>1</availability>
+      <publisher>Hachette</publisher>
+      <publication_date>1754-09-01</publication_date>
+      <price>10.67</price>
+   </book>
+   <book>
+      <title>A grand coup de lattes</title>
+      <author>
+         <firstname>Calchou</firstname>
+         <lastname>Pastari</lastname>
+         <birth_year>1999</birth_year>
+         <native_country>ITALIE</native_country>
+      </author>
+      <overview>Un roman plein de tendresses qu'il vaut mieux avoir lu plutôt 2 fois qu'une !</overview>
+      <availability>1</availability>
+      <publisher>Colmard</publisher>
+      <publication_date>2013-11-11</publication_date>
+      <price>55.20</price>
+   </book>
+   <book>
+      <title>La pyramide du grand port</title>
+      <author>
+         <firstname>Kristoff</firstname>
+         <lastname>Kamenbert</lastname>
+         <birth_year>2011</birth_year>
+         <native_country>ALLEMAGNE</native_country>
+      </author>
+      <overview>Un rêve ? Une illusion ? A vous de le découvrir en vous plongeant dans la plus incroyable des aventures.</overview>
+      <availability>1</availability>
+      <publisher>Colmard</publisher>
+      <publication_date>1979-12-22</publication_date>
+      <price>20.13</price>
+   </book>
+   <book>
+      <title>Un été pas comme les autres</title>
+      <author>
+         <firstname>Audrey</firstname>
+         <lastname>Herinchki</lastname>
+         <birth_year>1966</birth_year>
+         <native_country>RUSSIE</native_country>
+      </author>
+      <overview>Pas grand chose à dire sur ce livre.</overview>
+      <availability>2</availability>
+      <publisher>Hachette</publisher>
+      <publication_date>1999-01-01</publication_date>
+      <price>13.29</price>
+   </book>
+   <book>
+      <title>Baba cool</title>
+      <author>
+         <firstname>Simon</firstname>
+         <lastname>Goedfroy</lastname>
+         <birth_year>1703</birth_year>
+         <native_country>GABON</native_country>
+      </author>
+      <overview>LE livre a ne surtout pas lire tellement il est trop bien quand tu le lis.</overview>
+      <availability>2</availability>
+      <publisher>Gallimard</publisher>
+      <publication_date>1879-08-30</publication_date>
+      <price>788.14</price>
+   </book>
+   <book>
+      <title>La princesse des bois moisis</title>
+      <author>
+         <firstname>Charlotte</firstname>
+         <lastname>Arlababa</lastname>
+         <birth_year>2000</birth_year>
+         <native_country>FRANCE</native_country>
+      </author>
+      <overview>C'est l'histoire d'une jolie princesse qui termine sa vie dans une merveilleuse petite maison.</overview>
+      <availability>1</availability>
+      <publisher>Oreiller</publisher>
+      <publication_date>1988-07-11</publication_date>
+      <price>34.33</price>
+   </book>
+   <book>
+      <title>Apprendre le fliouli</title>
+      <author>
+         <firstname>Carla</firstname>
+         <lastname>Sartabou</lastname>
+         <birth_year>1644</birth_year>
+         <native_country>ARABIE</native_country>
+      </author>
+      <overview>Le fliouli est une science rare. Tous les amateurs de découverte trouveront dans ce livre des choses intéressantes.</overview>
+      <availability>2</availability>
+      <publisher>Faboune</publisher>
+      <publication_date>2015-02-02</publication_date>
+      <price></price>
+   </book>
+   <book>
+      <title>Le sauciflard</title>
+      <author>
+         <firstname>René</firstname>
+         <lastname>Destable</lastname>
+         <birth_year>1989</birth_year>
+         <native_country>ESPAGNE</native_country>
+      </author>
+      <overview>Un petit goût de pays : tout ce qu'il faut pour une table bien garnie !</overview>
+      <availability>1</availability>
+      <publisher>Oreiller</publisher>
+      <publication_date>2002-10-09</publication_date>
+      <price></price>
+   </book>
+   <book>
+      <title>Jadis</title>
+      <author>
+         <firstname>Robert</firstname>
+         <lastname>Redpeugeot</lastname>
+         <birth_year>2001</birth_year>
+         <native_country>PORTUGAL</native_country>
+      </author>
+      <overview>Un livre sur l'histoire de la guerre des puces racontée avec brillo !</overview>
+      <availability>1</availability>
+      <publisher>Hachette</publisher>
+      <publication_date>2000-08-08</publication_date>
+      <price>33.33</price>
+   </book>
+   <book>
+      <title>Pas possible</title>
+      <author>
+         <firstname>Natacha</firstname>
+         <lastname>Patrouchki</lastname>
+         <birth_year>1777</birth_year>
+         <native_country>BRESIL</native_country>
+      </author>
+      <overview>Un livre pas possible...</overview>
+      <availability>1</availability>
+      <publisher></publisher>
+      <publication_date>1977-06-05</publication_date>
+      <price></price>
+   </book>
+   <book>
+      <title>To be or dobedo</title>
+      <author>
+         <firstname>Sébastien</firstname>
+         <lastname>Dufourno</lastname>
+         <birth_year>1979</birth_year>
+         <native_country>FRANCE</native_country>
+      </author>
+      <overview>S'il suffisait d'un unique livre à lire pour vivre sans respirer, c'est celui-là !</overview>
+      <availability>2</availability>
+      <publisher></publisher>
+      <publication_date>1999-12-12</publication_date>
+      <price>7.55</price>
+   </book>
+</books>

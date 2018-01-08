@@ -1,0 +1,19 @@
+Options +FollowSymlinks
+RewriteEngine on
+
+# NC : no case
+# L : Last
+
+RewriteRule ^([a-zA-Z0-9]+)\/([a-zA-Z0-9]+)\/([a-zA-Z0-9]+)\/([a-zA-Z0-9]+)$  index.php?action=$1&param1=$2&param2=$3&param3=$4&param4=$5&param5=$6[NC,L]
+
+RewriteRule ^([a-zA-Z0-9]+)\/([a-zA-Z0-9]+)\/([a-zA-Z0-9]+)\/([a-zA-Z0-9]+)$  index.php?action=$1&param1=$2&param2=$3&param3=$4&param4=$5 [NC,L]
+
+RewriteRule ^([a-zA-Z0-9]+)\/([a-zA-Z0-9]+)\/([a-zA-Z0-9]+)\/([a-zA-Z0-9]+)$  index.php?action=$1&param1=$2&param2=$3&param3=$4 [NC,L]
+
+RewriteRule ^([a-zA-Z0-9]+)\/([a-zA-Z0-9]+)\/([a-zA-Z0-9]+)$  index.php?action=$1&param1=$2&param2=$3 [NC,L]
+
+RewriteRule ^([a-zA-Z0-9]+)\/([a-zA-Z0-9]+)$  index.php?action=$1&param1=$2 [NC,L]
+
+RewriteRule ^([a-zA-Z0-9]+)$ index.php?action=$1 [NC,L]
+
+RewriteRule ^/$ index.php [NC,L]
